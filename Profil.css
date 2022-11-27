@@ -1,0 +1,48 @@
+body{
+    /*BackGround Color: aquamarine */
+    background-color: aquamarine
+}
+
+img{
+    /*border-radius: 30%*/
+    border-radius: 30%
+}
+
+h1{
+    /*Text {size 50px} { color: DarkBlue} */
+    font-size: 50px;
+    color: darkblue;
+}
+
+h2{
+     /*Text {size 25px} */
+    font-size: 25px;
+}
+
+.Info{
+    /*    Info
+      BackGound: White
+      높이:400px 넓이:300px
+      Border 모양 둥근모양
+       */
+    width: 400px; height: 300px;
+    background-color: white;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.Content{
+    /*.
+    Content{
+    display: inline-block;
+    margin: 30px 40px;
+    border-radius: 10%;
+    background-color: white;
+    color: darkblue ;
+    */
+    display: inline-block;
+    margin: 30px 40px;
+    border-radius: 10%;
+    background-color: white;
+    color: darkblue ;
+}
