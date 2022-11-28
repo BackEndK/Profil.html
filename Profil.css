@@ -26,6 +26,8 @@ h2{
       Border 모양 둥근모양
        */
     width: 400px; height: 300px;
+    display: inline-block;
+    margin: 30px 40px
     background-color: white;
     border-radius: 10%;
     text-align: center;
